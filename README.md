@@ -1,4 +1,4 @@
-# Welcome to Math Utility Repo
+# Welcome to Selelnium-2-Go Repo
 
 * Coming soon...
 
